@@ -1,3 +1,6 @@
 hello world!
 txt2
 txt5
+started sistems 
+password and login
+kill all admin
